@@ -36,7 +36,7 @@ app.post('/send-email', (req, res) => {
   const { recipient, subject, text, htmlContent } = req.body;
 
   const mailOptions = {
-    from: 'skyAirlines1234@outlook.com',
+    from: 'testuser',
     to: recipient,
     subject: subject,
     text: text,
@@ -69,5 +69,6 @@ async function connectToMongoDB() {
       console.log('Your server is up and running...');
     });
   });
+
 
 
