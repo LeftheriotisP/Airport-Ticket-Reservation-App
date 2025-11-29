@@ -35,6 +35,7 @@ This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Nod
 - The MongoDB database was used to store the data used by the application, as mentioned in Section 3. While an attempt was made to use the classic MongoDB, due to connection and functionality problems between the database with the application and the Node.js Server, MongoDB Atlas was used, which is a cloud version of the regular MongoDB.
 - The database used is called myFirstDB and consists of 4 collections: registered users, flights, tickets and transactions. Registered users are those who have an account in the application, flights are all flights offered by the airline, tickets are all user tickets and transactions are the user's ticket purchases and billing information.
 - The image below shows a user's document. Each user has as fields the unique id that is automatically generated from the database “_id”, the name “firstname”, the surname “lastname”, the access name “username”, the access password “password”, the contact phone number “tel”, the identifier “trait” that is automatically entered for each user who creates an account and takes values ​​depending on whether they are a simple user “user” or an administrator “admin” and the unique 32-digit code “uuid”, unique for each user, that is automatically generated through the “UUID” library and is automatically entered with each user registration and may have the discount code “discountCode” if they have won the anagram game.
+  
 ![Database Diagram](https://github.com/LeftheriotisP/SkyAirlines/raw/main/dbimg1.png)
 
 
