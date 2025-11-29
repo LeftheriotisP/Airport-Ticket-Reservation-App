@@ -15,19 +15,19 @@ Panagiotis Leftheriotis
 
 This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js), along with HTML, CSS, Bootstrap, JavaScript, and jQuery for front-end functionality.
 
-MongoDB: A NoSQL database used to store flights, users, and tickets. MongoDB Atlas provides cloud-based access, with Node.js and Express.js handling database interactions.
+- MongoDB: A NoSQL database used to store flights, users, and tickets. MongoDB Atlas provides cloud-based access, with Node.js and Express.js handling database interactions.
 
-Express.js: A Node.js framework managing HTTP requests and routes, used to connect the front-end with the MongoDB database for tickets, users, and flights.
+- Express.js: A Node.js framework managing HTTP requests and routes, used to connect the front-end with the MongoDB database for tickets, users, and flights.
 
-Vue.js: A JavaScript framework used to create dynamic and reusable front-end components, including features like Dark Mode and dynamic tables for ticket history.
+- Vue.js: A JavaScript framework used to create dynamic and reusable front-end components, including features like Dark Mode and dynamic tables for ticket history.
 
-Node.js: Provides the server environment and handles requests via Express.js, including email notifications and database connections.
+- Node.js: Provides the server environment and handles requests via Express.js, including email notifications and database connections.
 
-HTML & CSS: Define the structure and styling of pages, including responsive design for different devices.
+- HTML & CSS: Define the structure and styling of pages, including responsive design for different devices.
 
-Bootstrap: Used for layout, styling, and prebuilt components such as cards, tables, and buttons.
+- Bootstrap: Used for layout, styling, and prebuilt components such as cards, tables, and buttons.
 
-JavaScript & jQuery: Adds interactivity, handles user inputs, communicates with the server using Fetch API, and implements features like the anagram game, Dark Mode, and dynamic maps.
+- JavaScript & jQuery: Adds interactivity, handles user inputs, communicates with the server using Fetch API, and implements features like the anagram game, Dark Mode, and dynamic maps.
 
 ## File Description
 ## User Manual
