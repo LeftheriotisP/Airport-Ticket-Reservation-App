@@ -6,10 +6,14 @@ Panagiotis Leftheriotis
 [p.leftheriotis@gmail.com](mailto:p.leftheriotis@gmail.com)
 
 ## Contents
-- [Application Requirements](#application-requirements)
-- [Modern Web Application Trends](#modern-web-application-trends)
-- [Application Technologies](#application-technologies)
+
+- [Technologies Used](#technologies-used)
+- [File Description](#file-description)
 - [User Manual](#user-manual)
+
+## Technologies Used
+## File Description
+## User Manual
 
 ## Application Requirements
 - Promotion of the company and its services: The main objective of the application is to increase the visibility of the company, its services, the countries it connects, the number of flights and the ticket prices it offers to a wider audience
