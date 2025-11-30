@@ -11,6 +11,7 @@ Panagiotis Leftheriotis
 - [File Description](#file-description)
 - [User Manual](#user-manual)
   - [Database](#database)
+  - [Database User Manual](#database-user-manual)
   - [Application start](#application-start)
 ## Technologies Used
 
