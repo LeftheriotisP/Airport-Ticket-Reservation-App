@@ -13,6 +13,7 @@ Panagiotis Leftheriotis
   - [Database](#database)
   - [Database User Manual](#database-user-manual)
   - [Application start](#application-start)
+  - [Application termination](#application-termination)
 ## Technologies Used
 
 This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js), along with HTML, CSS, Bootstrap, JavaScript, and jQuery for front-end functionality.
