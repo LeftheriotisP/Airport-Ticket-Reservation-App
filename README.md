@@ -11,6 +11,7 @@ Panagiotis Leftheriotis
 - [File Description](#file-description)
 - [User Manual](#user-manual)
   - [Database](#database)
+  - [Application start](#application-start)
 ## Technologies Used
 
 This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js), along with HTML, CSS, Bootstrap, JavaScript, and jQuery for front-end functionality.
@@ -84,7 +85,7 @@ Step 5: Click on the database named “myFirstDB” from the menu on the left
 
 Step 6: Now you can see the collections of the application database and you can select a specific one to view its documents.
 
-### Application startup
+### Application start
 Step 1: To boot the Node.js server, enter the path where the server is located through the terminal, in this case inside the “js” folder.
 Step 2: The command “npm start” is written in the terminal. With this command, nodemon will start the server and its connection to the database. The connection to the database is made using the Mongoose library and MURL, as shown in the following function in the app.js file.
 
