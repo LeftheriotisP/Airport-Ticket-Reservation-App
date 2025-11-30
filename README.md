@@ -8,7 +8,6 @@ Panagiotis Leftheriotis
 ## Contents
 
 - [Technologies Used](#technologies-used)
-- [File Description](#file-description)
 - [User Manual](#user-manual)
   - [Database](#database)
   - [Database User Manual](#database-user-manual)
@@ -37,7 +36,6 @@ This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Nod
 
 - JavaScript & jQuery: Adds interactivity, handles user inputs, communicates with the server using Fetch API, and implements features like the anagram game, Dark Mode, and dynamic maps.
 
-## File Description
 ## User Manual
 ### Database
 - The MongoDB database was used to store the data used by the application, as mentioned in Section 3. While an attempt was made to use the classic MongoDB, due to connection and functionality problems between the database with the application and the Node.js Server, MongoDB Atlas was used, which is a cloud version of the regular MongoDB.
