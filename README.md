@@ -293,4 +293,12 @@ The User Administration page corresponds to the file “admin_users.html” and 
 
 ![userAdmin1](https://github.com/user-attachments/assets/bfe381b3-b9aa-4dc5-92b8-c6f0c7edc107)
 
+4) User Search: The administrator can search for user records in the database by using the search bar under the “Search Users” heading and clicking the Search button.
+5) The administrator can type a word or part of a word in the search bar and press the search button. The application will then search the users collection for all users that contain that word or phrase in any of their fields and display them in a table format. If the user searches for the word “user” the search will return all users in the application except the administrator as they all have the “trait” field with the value “user”. The image below shows an example of a search.
+
+![searchAdmin1](https://github.com/user-attachments/assets/40636530-ebe1-4bb8-b06a-4977459bdce9)
+
+The user search displays all their fields except for the password “password” and the unique ID “uuid”.
+5) Edit users. Similar to editing flights, the administrator can edit the details of an existing user. All he has to do is fill in the unique user id “User ID” that he can obtain through the search and then fill in as many fields as he wants to change their value. The administrator cannot, however, edit the user’s login details, namely the login name “username” and the login password “password”.
+6) Delete User: The administrator can delete a user from the application by filling in the unique user ID “UserID” which can be obtained from the search as mentioned previously and pressing the Delete User button.
 
