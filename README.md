@@ -10,7 +10,7 @@ Panagiotis Leftheriotis
 - [Technologies Used](#technologies-used)
 - [File Description](#file-description)
 - [User Manual](#user-manual)
-
+  - [Database](#database)
 ## Technologies Used
 
 This application is built using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js), along with HTML, CSS, Bootstrap, JavaScript, and jQuery for front-end functionality.
@@ -278,6 +278,7 @@ Here the administrator can confirm his logout by pressing the OK button, otherwi
 The User Administration page corresponds to the file “admin_users.html” and contains user management functions. Specifically, the functions contained are:
 1) Administrator navigation to the Home and Flight Administration pages corresponding to the files “admin_homepage.html” and “admin_flights.html” via the navigation bar at the top of the page
 2) Display the total number of registered users: At the top of the page, just below the navigation bar, there is a message that looks up the database and displays the number of registered users as shown in the image below. At this time, there are 27 registered users.
+
 ![userAdmin](https://github.com/user-attachments/assets/c77abaf7-f3d8-4e12-bd82-b22a898b8c60)
 
 3) Create a new user: The administrator can create a new user account in the application by filling in the fields “First Name”, “Last Name”, “Username”, “Password”, “Telephone” and clicking the Create User button.
